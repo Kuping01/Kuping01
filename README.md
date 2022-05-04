@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kuping01
+- 👀 I’m interested in working with programming
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Google
+- 📫 How to reach me wwesleyof2k18@outlook.com
